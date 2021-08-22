@@ -1,0 +1,32 @@
+[
+  {
+    "email": "user1@user.com",
+    "password": "e71310a1a687e6c6cd75f9c8c764b3d1271aa620d25a9aa3ac3701efb80348fff6ed11b5935d43725ae06b776909b446c53f738e8333050fa3b9aa78608d3b5c.28bdddb3498355c1",
+    "id": "a1fe03c7"
+  },
+  {
+    "email": "user2@user.com",
+    "password": "848d3ef954e3e781a82084e7c0224e1344c18f2dab6cc94caa5ad418989a721c625a7469e6fb555bf4941d6c9c5f4c9dfc395ac879ad3b20ec79bb62d8ffa3ee.8330aa1280b337a7",
+    "id": "a08e5b42"
+  },
+  {
+    "email": "user3@user.com",
+    "password": "ef9160281951548b1ab2a777a959a782266f29c974d9a37c14803ae75cf39ea3d4aa5d374852fae0d8d9c3c1569422eab6e9f60051b8f1b8127e382ef9c7eacb.d263334c30440c64",
+    "id": "1103cc58"
+  },
+  {
+    "email": "user5@user.com",
+    "password": "18c89e2127ab58e3997ea233e76e8a015f53217a85ccf02c01abe40d893c68487a8a6a3c75b998dfbf536e7013dfda2e215744e18007f75d761bbafdbe45554a.0fff0e58787fd2b0",
+    "id": "d9cc90f4"
+  },
+  {
+    "email": "user6@user.com",
+    "password": "dfd47ade7bf7160c591d3ee83f631e653028bde4e8ba3d59752ac2e2ba905e2918c697ae8c3e4ef99c80502e0f7aeb0a5e6d2bc09e8b11c918567b68d11e1041.65afab9185b63516",
+    "id": "c0e7c3bc"
+  },
+  {
+    "email": "user7@user.com",
+    "password": "fb291db8a91fb319d55579ee9df28d1e9dce832ca54b935abd2a8bddf01a31cfafdee61c8d4dd8f99145db144ec6fa06f61666b36931269f4b5d100f028b291f.f567b8c15faff44d",
+    "id": "95910d40"
+  }
+]
